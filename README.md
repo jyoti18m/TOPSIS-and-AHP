@@ -1,2 +1,3 @@
-# MyProjects
-Few Projects that I have worked upon during my college days..
+# TOPSIS and AHP  
+This is a tool to rank a set of alternatives based on certain criteria(upto 10 for now). First, we need to enter the criteria names and the alternatives which we need to rank. Then, we need to supply the values of each criteria for each alternatives. The tool will then run the AHP module and ask the preference of one criteria over the other for evaluating the ranks. Finally, ranks will be calculated based on the scores each alternative gets using TOPSIS. 
+We generally used to rank a group of 10 mutual fund companies based on few criteria such as Return on Investment, Minimum amount to be invested, Minimum time period, Risk involved, Per capita income of the company, etc. 
